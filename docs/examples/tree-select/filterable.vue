@@ -92,7 +92,7 @@ const sourceData = [
         label: 'Level two 3-2',
         children: [
           {
-            value: '3-2-1',
+            value: '3-2-1 /n qqq',
             label: 'Level three 3-2-1',
           },
         ],
